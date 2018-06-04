@@ -7,6 +7,17 @@ Marketplace is a sample web application, to allow owner posting project online w
 Marketplace web application was developed using Angular, Spring Boot, Hibernate/JPA, Postgres, Tomcat and Microservice, with Java, JavaScript, SQL/HQL, JSON, FreeMarker/FTL, Maven, Git and Eclipse.
 
 
+Download:
+git clone https://github.com/yuandai/Marketplace3.git
+
+Build:
+mvn clean install
+mvn eclipse:eclipse
+
+Run:
+mvn spring-boot:run
+
+
 The following are the RestAPIs provided:
 
 
